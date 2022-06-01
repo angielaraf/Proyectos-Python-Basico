@@ -1,5 +1,5 @@
 # Proyectos: Python Basico
-En esta carpeta se encuentran los proyectos que he desarrollado en el Curso Basico de Python:
+En este repositorio se encuentran los proyectos que he desarrollado en el Curso Basico de Python:
 
 1-🔃 Aleatoriedad:
 
@@ -15,7 +15,7 @@ En esta carpeta se encuentran los proyectos que he desarrollado en el Curso Basi
   
 3-🔢 Numeros
 
-  a-Juego adivina el número
+  a-Juego adivina el número: Es un juego donde el usuario debe adivinar un número elegido por la computadora.
   
   b-Par o impar: Es un programa que indica el número que el usuario digita es par o impar.
   

@@ -17,10 +17,10 @@ En este repositorio se encuentran los proyectos que he desarrollado en el Curso 
 
   a-Juego adivina el número: Es un juego donde el usuario debe adivinar un número elegido por la computadora.
   
-  b-Par o impar: Es un programa que indica el número que el usuario digita es par o impar.
+  b-Par o impar: Es un programa que indica si el número que el usuario digita es par o impar.
   
   c-Primalidad: Es un programa que indica si el número que digita el usuario es primo.
   
 4-🔤Palíndromo:
 
-  Es un programa que te indica si la palabra que escribes es palíndromo, es decir, si es la palabra que se escribe el usuario se lee igual de izquierda a derecha que de derecha a izquierda.
+  Es un programa que indica si la palabra que escribe el usuario es un palíndromo, es decir, si es la palabra se lee igual de izquierda a derecha y de derecha a izquierda. Ejemplo: radar, oso.
